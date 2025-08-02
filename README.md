@@ -1,4 +1,10 @@
-## Hi there 👋
+## Saniya Mukhambetkaliyeva
+Bryn Mawr College '27
+## Past experience:
+1) Google 2024 STEP Intern
+2) Google 2025 SDE Intern
+
+Contact me on privatesaniya@gmail.com or www.linkedin.com/in/saniyamukh
 
 <!--
 **saniya05m/saniya05m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
